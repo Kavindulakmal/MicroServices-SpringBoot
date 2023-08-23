@@ -14,6 +14,14 @@
 ### DELETE Customer
 ![delete customer](https://user-images.githubusercontent.com/80127637/188644279-645d93c9-3801-4f24-8c63-1dec36de82a5.png)
 
+# Contributing
+Pull requests are welcomed. For major changes, please open an issue first to discuss what you would like to change. Thanks!
+
+Happy Coding!!!
+
+## Copyright
+© KAVINDU™
+
 
 
 
